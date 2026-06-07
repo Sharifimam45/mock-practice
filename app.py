@@ -3,3 +3,5 @@ b=20
 print(a+b)
 for i in range(a):
     print(i)
+def add(x,y):
+    print(x+y)
